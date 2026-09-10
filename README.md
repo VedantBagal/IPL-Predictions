@@ -162,6 +162,6 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Jay Kumbhar**
+**Vedant Bagal**
 📧 vedantbagal05@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/vedantbagal/) | 💻 [GitHub](https://github.com/VedantBagal)
